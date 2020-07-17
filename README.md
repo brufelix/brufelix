@@ -1,6 +1,6 @@
 ### Hillo, You around here 👋
 
-<img src="https://github.com/brufelix/Role-Playing-Game-Got/blob/master/frontend/src/assets/banner.jpeg" height="200px" width="600px" />
+<img src="https://github.com/brufelix/Role-Playing-Game-Got/blob/master/frontend/src/assets/bannerGit01.jpeg" height="200px" width="600px" />
 
 <div>
 <a href="https://twitter.com/BrunoFe10169574">
